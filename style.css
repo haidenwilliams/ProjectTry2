@@ -1,0 +1,22 @@
+.navbar-brand {
+  background-color: black;
+  color: white;
+}
+.navbar-collapse {
+  background-color: brown;
+  color: white;
+}
+.nav-link {
+  background-color: black;
+}
+.p {
+  background-color: black;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 800px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 10;
+}
